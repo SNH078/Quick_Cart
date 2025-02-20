@@ -26,7 +26,7 @@ A full-stack shopping cart application built using the **MERN stack** with a res
 git clone https://github.com/your-username/mern-shopping-cart.git
 cd mern-shopping-cart
 
-
+```
 # 🎨 Preview
 Here’s a look at the **MERN Shopping Cart App** in action:  
 
