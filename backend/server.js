@@ -10,7 +10,7 @@ const PORT = process.env.PORT || 3000;
 
 //variable to the absolute path of the directory containing the current file.
 const __dirname = path.resolve();
-//middldeware---------------------------------------------
+//middldeware--------------------------------------------
 app.use(express.json()); // allows us to access json data in req.body 
 app.use('/api/products/',productRoutes);  // routes
  
