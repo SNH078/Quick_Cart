@@ -36,7 +36,7 @@ Follow these steps to set up and run the application locally:
 
 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/your-username/mern-shopping-cart.git
+git clone https://github.com/SNH078/Quick_Cart.git
 cd mern-shopping-cart
 ```
 
