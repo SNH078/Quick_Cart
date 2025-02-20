@@ -30,8 +30,55 @@ Here’s a look at the **MERN Shopping Cart App** in action:
 
 ![Screenshot 2025-02-20 155842](https://github.com/user-attachments/assets/a306a887-e496-4b01-a387-50d1f61733e0)
 
+## 📌 Installation & Setup  
+
+Follow these steps to set up and run the application locally:  
+
+1️⃣ Clone the Repository  
+```sh
+git clone https://github.com/your-username/mern-shopping-cart.git
+cd mern-shopping-cart
+```
+
+2️⃣ Configure the Environment Variables
+Create a .env file in the root of the project and add your MongoDB URI:
+```
+MONGO_URI=your_mongodb_connection_string
+```
+3️⃣ Install Dependencies
+```npm install```
+
+```
+cd frontend
+npm install
+```
+
+
+4️⃣ Run the Application
+
+Start the Frontend
+```
+npm run dev
+```
+(Make sure you are inside the frontend/ folder when running this command.)
+
+Start the Backend
+First, exit the frontend/ folder back to the main directory:
+```
+cd ..
+npm run dev
+```
+
+5️⃣ Open in Browser
+Once both servers are running, open the app in your browser at:
+```
+http://localhost:5173
+```
+
+Now you're all set! 🎉
+
 ### 🚀 Clone & Collaborate  
 
 Want to improve or customize the app? **Fork this repo, make your changes, and submit a pull request!**  
 Happy Coding !! 
-SNH078
+- SNH078
