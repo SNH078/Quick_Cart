@@ -20,7 +20,6 @@ A full-stack shopping cart application built using the **MERN stack** with a res
 - **Notifications**: Chakra UI **useToast**  
 
 
-```
 # 🎨 Preview
 Here’s a look at the **MERN Shopping Cart App** in action:  
 
