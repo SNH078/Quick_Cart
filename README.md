@@ -19,14 +19,7 @@ A full-stack shopping cart application built using the **MERN stack** with a res
 - **State Management**: React Hooks  
 - **Notifications**: Chakra UI **useToast**  
 
-## 📌 Installation & Setup
 
-1️⃣ Clone the repository:  
-```sh
-git clone https://github.com/your-username/mern-shopping-cart.git
-cd mern-shopping-cart
-npm install
-npm start
 ```
 # 🎨 Preview
 Here’s a look at the **MERN Shopping Cart App** in action:  
