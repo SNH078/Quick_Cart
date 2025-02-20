@@ -1,4 +1,4 @@
-# 🛒 Quick Cart - MERN Shopping Cart Application
+# 🛒  Quick Cart - MERN Shopping Cart Application
 ![Screenshot 2025-02-20 155036](https://github.com/user-attachments/assets/a95e5735-1d40-494c-bbe2-851bd16df0e0)
 
 A full-stack shopping cart application built using the **MERN stack** with a responsive **Chakra UI** design. It allows users to **add, update, and delete products**, features a **dark/light theme toggle**, and provides **real-time toast notifications** using Chakra UI's **useToast**.
