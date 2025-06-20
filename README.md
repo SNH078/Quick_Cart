@@ -17,7 +17,7 @@ A full-stack shopping cart application built using the **MERN stack** with a res
 - **Frontend**: React.js, Chakra UI, React Router  
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB  
-- **State Management**: React Hooks  
+- **State Management**: React Hooks, Zustand 
 - **Notifications**: Chakra UI **useToast**  
 
 
