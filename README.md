@@ -6,6 +6,7 @@ A full-stack shopping cart application built using the **MERN stack** with a res
 ## 🚀 Features
 
 ✅ **Product Management** – Add, update, and delete products.  
+✅**Zustand**-- state management in React.
 ✅ **Dark/Light Mode** – Toggle between themes for better accessibility.  
 ✅ **Toast Notifications** – Real-time feedback using **Chakra UI's `useToast`**.  
 ✅ **React Router Navigation** – Smooth client-side navigation.  
